@@ -4,7 +4,7 @@ A solution to the [QR code component challenge](https://www.frontendmentor.io/ch
 
 ## 📸 Screenshot
 
-<img src="./preview/screenshot.jpg" alt="Project Screenshot" width="300px"/>
+<img src="./preview/screenshot.jpg" alt="Project Screenshot" width="600px"/>
 
 ## 🔗 Live Preview
 
