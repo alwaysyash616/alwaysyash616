@@ -1,0 +1,44 @@
+/*
+body{ height: 100vh }
+(if body is positioned, then in case of position: absolute for card, this should be done)
+
+
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+*/
+
+body {
+    background: #D5F1EF;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.card {
+    box-shadow: 0px 10px 20px 0px rgba(0 0 0 / 10%);
+    background-color: white;
+    padding-bottom: 3rem;
+    border-radius: 16px;
+    max-width: 302px;
+    position: fixed;
+    height: 470px;
+    width: 100%;
+    margin: auto;
+    padding: 1rem;
+    inset: 0;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h2 {
+    /* color: #252D47; */
+    color: #1f3251;
+}
+
+p {
+    color: #7b879d;
+}
