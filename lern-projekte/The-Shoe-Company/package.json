@@ -1,0 +1,40 @@
+{
+  "name": "shoe-company-ui",
+  "version": "1.0.0",
+  "description": "The Shoe Company is a modern and responsive landing page built using HTML, Tailwind CSS, and JavaScript. It showcases a clean and minimalistic shoe brand interface, featuring interactive elements, a promotional hero section, product highlights, and mobile-friendly layouts. Designed to demonstrate UI/UX fundamentals, responsive design, and Tailwind utility-first styling principles.",
+  "keywords": [
+    "shoe",
+    "ecommerce",
+    "landing page",
+    "tailwindcss",
+    "responsive design",
+    "UI design",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "frontend",
+    "web design",
+    "product showcase",
+    "shoes website",
+    "modern layout",
+    "hero section"
+  ],
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./input.css -o ./output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwaysyash616/alwaysyash616.git#main"
+  },
+  "author": "@lwaysyash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alwaysyash616/alwaysyash616/issues"
+  },
+  "homepage": "https://github.com/alwaysyash616/alwaysyash616/tree/main#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}

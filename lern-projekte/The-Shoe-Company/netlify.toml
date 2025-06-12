@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = "lern-projekte/The-Shoe-Company"
+
+[dev]
+  framework = "#custom"
