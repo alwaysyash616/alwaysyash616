@@ -1,5 +1,5 @@
 [build]
-  base = ""
+  base = "lern-projekte/The-Shoe-Company"
   publish = "lern-projekte/The-Shoe-Company"
   command = "npm run build"
 
