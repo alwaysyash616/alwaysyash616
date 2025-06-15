@@ -8,7 +8,7 @@ A solution to the [QR code component challenge](https://www.frontendmentor.io/ch
 
 ## 🔗 Live Preview
 
-[🔗 View Live Site](https://your-deployment-link.com)  
+[🔗 View Live Site](https://quick-response-code-card.netlify.app/)  
 [🎯 Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## 🚀 Built With

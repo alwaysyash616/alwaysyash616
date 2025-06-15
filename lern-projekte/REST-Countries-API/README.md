@@ -14,6 +14,11 @@
 </div>
 
 ---
+## 🔗 Live Demo
+
+[🎉 Open Greeting Page](https://rest-of-countries-api.netlify.app/)
+
+---
 
 ## 🚀 Features
 

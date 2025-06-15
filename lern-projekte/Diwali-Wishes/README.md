@@ -37,10 +37,10 @@ A warm, colorful, and responsive Diwali greeting web page built using only **HTM
 
 ## 🔗 Live Demo
 
-[🎉 Open Greeting Page](https://your-live-site-link.com)
+[🎉 Open Greeting Page](https://wishing-u-happy-diwali.netlify.app/)
 
 You can customize it like this:  
-`https://your-live-site-link.com?sender=Yash&receiver=Bestie`
+`https://wishing-u-happy-diwali.netlify.app/?sender=Yash&receiver=Bestie`
 
 ---
 

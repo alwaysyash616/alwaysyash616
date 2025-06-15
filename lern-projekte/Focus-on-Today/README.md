@@ -29,7 +29,7 @@ A clean, responsive, and motivational daily goals web app built using **HTML**, 
 
 ## 🔗 Live Demo
 
-[🚀 Open Goal Tracker](https://your-live-site-link.com)
+[🚀 Open Goal Tracker](https://focus-on-2day.netlify.app/)
 
 Example use:  
 Track your 3 most important goals of the day, mark them complete, and let the UI reflect your progress visually.

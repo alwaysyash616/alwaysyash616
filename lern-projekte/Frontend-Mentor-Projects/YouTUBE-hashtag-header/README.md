@@ -8,7 +8,7 @@ A simple clone of the YouTube hashtag section built using HTML and CSS. This inc
 
 ## 🔗 Live Preview
 
-[🔗 View Live Site](https://your-deployment-link.com)
+[🔗 View Live Site](https://yt-header-component.netlify.app/)
 
 ## 🚀 Built With
 

@@ -8,7 +8,7 @@ A solution to the [3-column preview card component challenge](https://www.fronte
 
 ## 🔗 Live Preview
 
-[🔗 View Live Site](https://your-deployment-link.com)  
+[🔗 View Live Site](https://3-column-prewiev-card-component.netlify.app/)  
 [🎯 Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
 ## 🚀 Built With

@@ -30,8 +30,8 @@
 
 ## 🌐 Live Demo
 
-🚀 **Live Preview**: [View Project on GitHub Pages](#)  
-🌍 *(Replace `#` with your live site URL once deployed)*
+🚀 **Live Preview**: [View Project on GitHub Pages](https://alwaysflix.netlify.app/)  
+🌍
 
 ---
 

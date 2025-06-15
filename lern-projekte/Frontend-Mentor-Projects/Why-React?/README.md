@@ -7,6 +7,9 @@ A simple apples-in-basket demo to visualize how React simplifies DOM updates and
 ## 💡 The Scenario
 
 This example demonstrates a basic UI interaction: moving apples between two baskets.
+## 🔗 Live Preview
+
+[🔗 View Live Site](https://why-react.netlify.app/)  
 
 ### 🔧 How it's done with Vanilla JS
 
