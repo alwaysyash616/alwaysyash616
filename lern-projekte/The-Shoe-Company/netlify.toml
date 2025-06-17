@@ -1,0 +1,12 @@
+[build]
+  base = "lern-projekte/The-Shoe-Company"
+  publish = "lern-projekte/The-Shoe-Company"
+  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
