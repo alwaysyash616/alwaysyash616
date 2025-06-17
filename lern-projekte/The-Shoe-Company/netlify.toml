@@ -1,6 +1,6 @@
 [build]
   base = "lern-projekte/The-Shoe-Company"
-  publish = "lern-projekte/The-Shoe-Company"
+  publish = ""
   command = "npm run build"
 
 [build.environment]
