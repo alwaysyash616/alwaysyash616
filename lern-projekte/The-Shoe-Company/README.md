@@ -38,6 +38,12 @@ the-shoe-company/
 ├── output.css (generated)
 └── tailwind.config.js
 ```
+---
+## 🔗 Live Demo
+
+[👟 Explore The Shoe Company](https://studiiyo23.netlify.app/)
+
+Browse stylish shoe collections with a sleek, responsive layout powered by TailwindCSS. Perfect for showcasing e-commerce concepts, clean UI design, and smooth user interaction.
 
 ---
 
