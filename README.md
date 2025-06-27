@@ -7,16 +7,15 @@
 
 ## 💡 About Me
 
-I am a Front End Developer with over 1 year of experience.  
-I’ve completed a web development course from Udemy and worked as a web developer intern at BYOL.  
-I specialize in building responsive, user-friendly websites using:
+I am a Front-End Developer with 1 year of hands-on experience in designing and developing responsive, user-friendly websites. I’ve built a solid foundation in web development through continuous self-learning, real-world practice, and building projects that solve real problems.
 
-- 🔧 **HTML5**, **CSS3**, **JavaScript**
-- 🧠 Learning: **Python**, **AI**, **ML**
-- 🛠️ Familiar with: **PHP**, **WordPress**
+My skills include HTML5, CSS3, JavaScript, C, Python and JAVA (Core). I’ve created websites for various domains including blogging, finance, e-commerce, and education, focusing on both visual design and performance.
 
-I’ve contributed to projects across blogging, finance, e-commerce, and education sectors.
+I’m passionate about crafting websites that are not only visually appealing but also aligned with the client's goals and brand identity. I enjoy collaborating with other developers and designers to bring creative ideas to life. I stay updated with the latest industry trends and best practices through online resources, documentation, and experimentation.
 
+My goal is to consistently deliver websites that are intuitive, efficient, and exceed client expectations.
+
+If you're looking for a reliable web developer who learns fast, adapts well, and is committed to quality, feel free to connect with me.
 ---
 
 ## 🧑‍💻 Current Roles
